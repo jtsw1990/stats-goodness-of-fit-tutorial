@@ -11,3 +11,8 @@ Contents:
 ## How to run locally
 
 ## Contributing to this tutorial
+
+
+## References
+
+[Exponential distribution basics](https://www.itl.nist.gov/div898/handbook/eda/section3/eda3667.htm)
